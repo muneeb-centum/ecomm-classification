@@ -1,0 +1,112 @@
+ABOUT- WHAT IS FIDO- ALLIANCE OVERVIEW- PRESS ROOM- HISTORY- BOARD- LOGO USAGE & STYLE GUIDE- CONTACTTECHNOLOGY- APPROACH & VISION-- HOW FIDO WORKS-- KEY DIFFERENTIATORS- SPECIFICATIONS DOWNLOAD- METADATA SERVICEADOPTION- OVERVIEW- MARKET SOLUTIONS-- ENTERPRISE-- FINANCE & PAYMENTS-- TELECOM-- GOVERNMENT-- HEALTHCARE & INSURANCE- FIDO Certified Showcase-- COMMERCIAL DEPLOYMENTS- POLICY & GOVERNMENTPARTICIPATE- MEMBER BENEFITS- HOW TO JOIN- MEMBERS- LIAISON- WORKING GROUPS- COMMUNITYFIDO CERTIFICATION- FIDO® CERTIFIED PRODUCTS- FUNCTIONAL CERTIFICATION-- CERTIFICATION OVERVIEW-- GETTING STARTED-- CONFORMANCE-- INTEROPERABILITY TESTING- CERTIFICATION LEVELS-- AUTHENTICATOR LEVEL 1-- AUTHENTICATOR LEVEL 2-- ACCREDITED LABORATORIES- REGISTRATION & FEES- TRADEMARK USAGENEWS & EVENTS- FIDO IN THE NEWS- PRESS RELEASES- EVENTS- PRESS ROOMRESOURCES- VIDEOS- WHITE PAPERS- PRESENTATIONS- BLOG- FAQS
+What is FIDO?  Blog  Get Involved
+
+SIMPLER, STRONGER
+AUTHENTICATION
+FIDO is the World’s Largest Ecosystem for Standards-Based,
+Interoperable Authentication
+GET STARTED WITH FIDO
+DEPLOY FIDO AUTHENTICATION
+WATCH FIDO
+INTRO VIDEO
+BUILD FIDO SOLUTIONS
+      What is FIDO?
+Open and scalable standards that enable simpler and more secure user authentication experiences across many websites and mobile services.
+LEARN MORE
+Why use FIDO for online authentication?
+The FIDO ecosystem enables better security for online services, reduced cost for the deploying enterprise, and a simpler and safer consumer experience.
+LEARN MORE
+Download Specifications
+The FIDO Alliances publishes technical specifications for any implementer to download. In addition, the Alliance is providing support.
+LEARN MORE
+  VIDEOS
+See FIDO in action, learn from experts
+View All Videos
+FIDO® CERTIFIED SOLUTIONS
+Find FIDO certified solutions and websites
+View FIDO Certified Solutions
+Events
+FIDO Events
+Industry Events
+FEDERAL IDENTITY FORUM & EXPOSITION
+Mobile World Congress Americas
+UAF Interoperability Events
+U2F Interoperability Events
+FIDO Alliance Seminar - Sydney
+FIDO Alliance September 2017 Plenary Meeting
+Future of Authentication Policy Forum
+MONEY20/20
+Japan IT Week Autumn
+GARTNER IDENTITY AND ACCESS MANAGEMENT SUMMIT
+
+View All
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+PARTICIPATE IN FIDO-DEV FORUM|SUBSCRIBE TO FIDO NEWSLETTER
+ABOUT
+What is FIDO
+Alliances Overview
+Press Room
+History
+Board
+Logo Usage & Style Guide
+Contact
+TECHNOLOGY
+Approach & Vision
+How FIDO Works
+Key Differentiators
+Specification Download
+Metadata Service
+ADOPTION
+Overview
+Market Solutions
+Enterprise
+Finance & Payment
+Telecom
+Government
+Healthcare & Insurance
+Policy & Government
+PARTICIPATE
+Member Benefits
+How to Join
+Members
+Liaisons
+Working Groups
+Community
+FIDO CERTIFICATION
+FIDO Certified Program
+Certification Overview
+Conformance
+Interoperability Testing
+Certification Submission
+Mark Usage
+FIDO Certified Products
+NEWS & EVENTS
+FIDO in the News
+Press Releases
+Events
+Press Room
+RESOURCES
+Videos
+White Papers
+Presentations
+Blog
+FAQs
+©2017 | FIDO Alliance
+PARTICIPATE
+TERMS OF USE
+PRIVACY POLICY
+CONTACT
+English

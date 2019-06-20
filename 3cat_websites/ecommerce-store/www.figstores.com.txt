@@ -1,0 +1,18 @@
+Retry for a live version
+This page (http://www.figstores.com/) is currently offline. However, because the site uses Cloudflare's Always Online™ technology you can continue to surf a snapshot of the site. We will keep checking in the background and, as soon as the site comes back, you will automatically be served the live version. Always Online™ is powered by Cloudflare | Hide this Alert
+Error 502 Ray ID: 389a25c3a103640f • 2017-08-05 13:36:49 UTC
+Bad gateway
+You
+Browser Working
+Frankfurt
+Cloudflare Working
+www.figstores.com
+Host
+Error
+What happened?
+The web server reported a bad gateway error.
+What can I do?
+Please try again in a few minutes.
+Cloudflare Ray ID: 389a25c3a103640f
+Your IP: 111.68.105.67
+Performance & security by Cloudflare

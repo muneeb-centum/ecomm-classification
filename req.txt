@@ -1,0 +1,13 @@
+Django==1.11.4
+django-filter==1.0.4
+djangorestframework==3.6.3
+environ==1.0
+Markdown==2.6.8
+nltk==3.2.4
+numpy==1.13.1
+pytz==2017.2
+scikit-learn==0.19.0
+scipy==0.19.1
+selenium==3.5.0
+six==1.10.0
+sklearn==0.0

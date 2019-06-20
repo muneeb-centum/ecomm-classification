@@ -1,0 +1,39 @@
+Menu
+      STANDARD RF FILTERS, CUSTOM RF FILTERS AND COAXIAL RF CABLES
+Anatech Electronics, Inc. manufactures and supplies RF filters, coaxial RF cable assemblies and Cable harnesses for Military and Commercial communication systems.  
+Our RF filters, and Microwave filters, include  band pass, low pass, high pass , band stop & notch filters, duplexers, diplexers, triplexers, multiplexers, tunable filters, switched filter banks, and more.., in classic topologies, such as Butterworth, Chebyshev, and Elliptic.   RF products include Power dividers, Power splitters, Directional couplers, and more.
+FEATURED PRODUCTS
+Full ISM Band 915 MHz Cavity Band Pass Filter
+902-928 MHz full ISM Band Filter, features a low profile, max. Insertion Loss in the pass band of 1.5dB, with a Power Handling of 30 W Ave.  Type N Female connectors, available also in different type connectors and outdoor applications.   see datasheet
+15.5 GHz Miniature Waveguide Band Pass Filter.
+Hi Performance miniature waveguide Band Pass Filter with a Pass Band of 15350-15750 MHz, with a rejection of  ≥50 dB @ 11000MHz and  ≥40 dB @ 20000MHz.  see datasheet
+CUSTOM PRODUCTS
+SEND YOUR SPECIFICATIONS
+STANDARD RF PRODUCTS
+CONTACT AN ENGINEER
+LTE & WiFi Products
+Our LTE dedicated product consists of High performance Band pass and duplexers. Selected products can be used for outdoors.
+ABOUT ANATECH ELECTRONICS
+Anatech Electronics, Inc., is a privately-held, ISO 9001:2008- certified company founded in 1990 that focuses on the design and manufacturing of RF and microwave filters and related products. Our broad array of products are employed in commercial, areospace and defense, and industrial applications throughout the world. We specialize in rapidly responding to customer needs and creating cost-effective solutions to meet them. In addition to its custom products, more...
+QUICK ACCESS
+Band pass filters
+Duplexers
+Low pass Filters
+High Pass Filters
+Band stop filters
+Triplexers
+Anatech Electronics, Inc. is a business to business manufacturer. We do not sell to individual consumers
+Get Updates Weekly
+SUBSCRIBE
+STANDARD PRODUCTS
+Band Pass FiltersDuplexers & DiplexersLow Pass FiltersHigh Pass FiltersBandstop-Notch FiltersTriplexersRF Filters for Wireless CommunicationTunable RF FiltersBand CombinersSingle In/Out Dual Band FiltersMultiplexersRF Cable AssembliesAdaptersRF Connectors
+COMPANY INFORMATION
+Applications Served Military / Defense Commercial Press Releases Articles Newsletters Corporate Contacts Contact Form
+GUIDELINE & SUPPORT
+Design Guidelines Technical References Applications Technical Support Design Capabilities Filter Requirements
+CUSTOM PRODUCTS
+Band Pass Filters Duplexers Low Pass Filters High Pass Filters Triplexers Multiband Multiplexers Band Stop/Notch Filters Tunable Band Pass Filters
+Home About Terms and Conditions Privacy Contact Us Site Map
+                  Copyright © 2017 ©Anatech Electronics, Inc. All Rights Reserved.
+Designed & Developed by: OpenSource Technologies
+Leave a message
