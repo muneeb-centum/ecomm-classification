@@ -1,7 +1,0 @@
-.error{
-    color: red;
-}
-input.error, select.error{
-    border-color: red;
-    color: initial;
-}
